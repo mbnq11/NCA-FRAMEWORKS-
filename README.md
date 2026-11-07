@@ -15,5 +15,3 @@ I'm working on adding new features, enhancing the user experience, and making th
 
 -This is an independent personal project and is not an official NCA tool.
 
-Explore the project:
-https://lnkd.in/d-4wGpYh
